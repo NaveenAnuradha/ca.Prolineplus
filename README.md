@@ -7,11 +7,6 @@ to cover two funtionalities on https://prolineplus.olg.ca/en-ca/
 
 I have used below tools in the project
 
-Language - Java
-IDE - Intellij 
-Web Driver - Selenium 
-Build Tool - Maven 
-Assertions - Testng 
-Feature Files - Cucumber/Gherkin
+Language - Java,  IDE - Intellij.  Web Driver - Selenium,  Build Tool - Maven,  Assertions - Testng,  Feature Files - Cucumber/Gherkin
 
 
